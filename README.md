@@ -44,6 +44,7 @@ Before running the notebook locally, ensure you have the following dependencies 
 3. Follow the notebook instructions to download and process **seasonal forecast data**.
 
 ## **References**
+- [Copernicus Seasonal Forecast Module](https://github.com/CLIMADA-project/climada_petals/tree/feature/copernicus_forecast)
 - [Copernicus Climate Data Store](https://cds.climate.copernicus.eu)
 - [CLIMADA Documentation](https://climada.ethz.ch/)
 - [U-CLIMADAPT Project](https://www.copernicus-user-uptake.eu/user-uptake/details/responding-to-the-impact-of-climate-change-u-climadapt-488)
