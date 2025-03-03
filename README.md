@@ -17,11 +17,14 @@ Designed for seamless integration with the [CLIMADA](https://climada.ethz.ch/) (
 - 🛠️ **Integration with [CLIMADA](https://climada.ethz.ch/)** (CLIMate ADAptation) for climate impact modeling.
 
 ## **Requirements**
-Before running the notebook, ensure you have the following dependencies installed:
+Before running the notebook locally, ensure you have the following dependencies installed:
 
-```bash
-pip install climada climada_petals cdsapi numpy pandas matplotlib
-```
+- `climada`
+- `climada_petals`
+- `cdsapi`
+- `numpy`
+- `pandas`
+- `matplotlib`
 
 ## **Usage**
 
