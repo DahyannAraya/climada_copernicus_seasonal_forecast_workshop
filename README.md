@@ -1,6 +1,6 @@
 <img src="images/Logos.png" alt="Project Logos" width="70%"/>
 
-# **Copernicus Seasonal Forecast Module**
+# **Copernicus Seasonal Forecast Module** 
 
 <img src="images/repo_qr.png" alt="Repository QR Code" width="150"/>
 
