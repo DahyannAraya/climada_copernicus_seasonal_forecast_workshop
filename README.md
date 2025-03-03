@@ -1,6 +1,13 @@
+<img src="images/Logos.png" alt="Project Logos" width="70%"/>
+
 # **Copernicus Seasonal Forecast Module**
 
-This repository contains a **Jupyter Notebook** that demonstrates how to manage **seasonal forecast data** from the [Copernicus Climate Data Store (CDS)](https://cds.climate.copernicus.eu) as part of the **U-CLIMADAPT project**. It provides tools for downloading, processing, and computing climate indices to generate hazard objects for **seasonal forecast risk assessment**.
+<img src="images/repo_qr.png" alt="Repository QR Code" width="150"/>
+
+This repository contains a **Jupyter Notebook** that showcases the functionalities of the new **seasonal forecast module** of [CLIMADA](https://climada.ethz.ch/). The module facilitates the management of **seasonal forecast data** from the [Copernicus Climate Data Store](https://cds.climate.copernicus.eu) (CDS) as part of the [U-CLIMADAPT project](https://www.copernicus-user-uptake.eu/user-uptake/details/responding-to-the-impact-of-climate-change-u-climadapt-488). 
+This module provides comprehensive tools for downloading, processing, and computing climate indices, as well as generating hazard objects based on seasonal forecast datasets, particularly [Seasonal forecast daily and subdaily data on single levels](https://cds.climate.copernicus.eu/datasets/seasonal-original-single-levels?tab=overview). 
+Designed for seamless integration with the [CLIMADA](https://climada.ethz.ch/) (CLIMate ADAptation) platform, this module supports climate risk assessment and facilitates the development of effective adaptation strategies.
+
 
 ## **Features**
 - 📥 **Download** seasonal forecast data from CDS.
