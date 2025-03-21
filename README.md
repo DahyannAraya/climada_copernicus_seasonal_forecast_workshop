@@ -31,7 +31,11 @@ Before running the notebook locally, ensure you have the following dependencies 
 <a target="_blank" href="https://colab.research.google.com/github/DahyannAraya/climada_copernicus_seasonal_forecast_workshop/blob/main/climada_copernicus_seasonal_forecast_workshop.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+1a. Clone the repository:
+   ```bash
+   git clone https://github.com/DahyannAraya/copy_climada_copernicus_seasonal_forecast_workshop.git
+   cd copy_climada_copernicus_seasonal_forecast_workshop
+   ```
 1. Clone the repository:
    ```bash
    git clone https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop.git
