@@ -58,7 +58,7 @@ This repository provides Jupyter Notebooks to work with **CLIMADA** and **Copern
    git clone https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop.git
    cd climada_copernicus_seasonal_forecast_workshop
 2. ⚠️ **Note:** If you plan to run this notebook locally, you must install **CLIMADA** and all required dependencies on your system. For detailed instructions, follow the official CLIMADA installation guide here:  
-   👉 [[CLIMADA Installation Guide](https://climada-python.readthedocs.io/en/stable/installation.html](https://climada-python.readthedocs.io/en/stable/guide/install.html)
+   👉 [CLIMADA Installation Guide](https://climada-python.readthedocs.io/en/stable/installation.html](https://climada-python.readthedocs.io/en/stable/guide/install.html)
 
 
 ## **References**
