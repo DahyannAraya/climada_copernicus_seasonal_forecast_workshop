@@ -14,6 +14,10 @@ Designed for seamless integration with the [CLIMADA](https://climada.ethz.ch/) (
 - 🔄 **Process** raw seasonal forecast datasets.
 - 📊 **Compute climate indices** for analysis.
 - 🌍 **Generate hazard objects** for climate risk assessment.
+- 📈 **Impact calculation** using CLIMADA’s tools to:
+  - Estimate population affected by heat index.
+  - Map spatial impact patterns.
+  - Analyze forecast impacts across ensemble members.
 - 🛠️ **Integration with [CLIMADA](https://climada.ethz.ch/)** (CLIMate ADAptation) for climate impact modeling.
 
 ## **Requirements**
@@ -28,17 +32,34 @@ Before running the notebook locally, ensure you have the following dependencies 
 
 ## **Usage**
 
+This repository provides Jupyter Notebooks to work with **CLIMADA** and **Copernicus seasonal forecast modul**.
+
+### Notebooks
+
 | Notebook | Open in Colab | GitHub Link |
 |----------|----------------|-------------|
 | `Modul_climada_copernicus_seasonal_forecast_workshop.ipynb` | [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="20">](https://colab.research.google.com/github/DahyannAraya/climada_copernicus_seasonal_forecast_workshop/blob/main/Modul_climada_copernicus_seasonal_forecast_workshop.ipynb) | [View on GitHub](https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop/blob/main/Modul_climada_copernicus_seasonal_forecast_workshop.ipynb) |
 | `climada_copernicus_seasonal_forecast_workshop.ipynb` | [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="20">](https://colab.research.google.com/github/DahyannAraya/climada_copernicus_seasonal_forecast_workshop/blob/main/climada_copernicus_seasonal_forecast_workshop.ipynb) | [View on GitHub](https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop/blob/main/climada_copernicus_seasonal_forecast_workshop.ipynb) |
 
-   ```
-2. Open the Jupyter Notebook:
+---
+
+### Run in Colab
+
+1. Click on **Open in Colab** for the notebook of interest.
+2. Make sure you follow all the setup cells in the notebook to install **CLIMADA** and its dependencies.
+
+---
+
+### Run Locally
+
+1. Clone the repository:
+
    ```bash
-   jupyter notebook climada_copernicus_seasonal_forecast_workshop.ipynb
-   ```
-3. Follow the notebook instructions to download and process **seasonal forecast data**.
+   git clone https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop.git
+   cd climada_copernicus_seasonal_forecast_workshop
+2. ⚠️ **Note:** If you plan to run this notebook locally, you must install **CLIMADA** and all required dependencies on your system. For detailed instructions, follow the official CLIMADA installation guide here:  
+   👉 [CLIMADA Installation Guide](https://climada-python.readthedocs.io/en/stable/installation.html)
+
 
 ## **References**
 - [Copernicus Seasonal Forecast Module](https://github.com/CLIMADA-project/climada_petals/tree/feature/copernicus_forecast)
