@@ -69,7 +69,7 @@ Alternatively, you can install the module manually by cloning the repository:
 ```bash
 git clone https://github.com/DahyannAraya/climada_copernicus_seasonal_forecast_workshop.git
 cd climada_copernicus_seasonal_forecast_workshop
-
+```
 
 ## **References**
 - [Copernicus Seasonal Forecast Module](https://github.com/CLIMADA-project/climada_petals/tree/feature/copernicus_forecast)
