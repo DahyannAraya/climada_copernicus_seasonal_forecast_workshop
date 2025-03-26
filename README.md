@@ -25,7 +25,7 @@ Before running the notebook locally, ensure you have the following dependencies 
 
 - `climada`
 - `climada_petals`
-- `cdsapi`
+- `cdsapi` [Install and register cdsapi via this link](https://cds.climate.copernicus.eu/how-to-api#install-the-cds-api-client)
 - `numpy`
 - `pandas`
 - `matplotlib`
